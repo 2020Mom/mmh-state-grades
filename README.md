@@ -1,6 +1,22 @@
 
 # Maternal Mental Health State Report Cards
 
+## About this repository
+
+The Policy Center for Maternal Mental Health is inviting members of the public to clone this repository and construct the database on a local machine, and to use the data for strategic planning, fund-raising, policy implementation, or to increase public awareness via media channels.
+
+The repository is distributed under Creative Commons License 'CC BY-SA 4.0'.  Users are free to copy and redistribute the material in any medium or format, to remix, transform, and build upon the material for any purpose, even commercially, subject to the following terms:
+
+### Attribution
+
+ You must give appropriate credit to The Policy Center for Maternal Mental Health, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the Policy Center endorses you or your use. 
+
+### ShareAlike
+
+If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+# state_grades.csv
+
 The county-level data from [mmh-risk-factors](https://github.com/2020Mom/mmh-risk-factors) is aggregated at the state level in [csv/state_grades.csv](csv/state_grades.csv).  The following fields define the dataset:
 
 <pre>   
