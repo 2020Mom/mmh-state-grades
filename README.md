@@ -20,7 +20,7 @@ The county-level data from [mmh-risk-factors](https://github.com/2020Mom/mmh-ris
 <pre>   
     "STABRV"        State Abreviation
     "STATE"         Name of state
-    "WPRFS"         Risk Factor Score for the State (weighted by # of births)
+    "WPRFS"         Risk Factor Score for the State (average weighted by # of births)
     "PROVIDERS"     (#) Certified PMH Providers
     "PRESCRIBERS"   (#) Licensed Prescribers
     "TOTPOP"        Population, total
