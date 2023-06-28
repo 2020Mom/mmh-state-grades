@@ -19,7 +19,7 @@ KS,Kansas,14.8,35,15,2942122,1463947,567791,34650,1.01,173,0.20,138,6.5,no,yes,n
 KY,Kentucky,23.1,55,20,4501518,2270358,857522,52156,1.05,261,0.21,206,5,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,0,0,5,D-,F,F,C
 LA,Louisiana,25.4,82,11,4644574,2373744,920710,57714,1.42,289,0.28,207,12,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,yes,no,no,3,3,6,D+,D,D,C
 ME,Maine,12.5,19,1,1368009,688738,239728,11950,1.59,60,0.32,41,5,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,0,0,5,D-,F,F,C
-MD,Maryland,12.9,126,38,6162305,3153399,1210110,68208,1.85,341,0.37,215,11,no,yes,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,6,0,5,D+,D,F,C
+MD,Maryland,12.9,126,38,6162305,3153399,1210110,68208,1.85,341,0.37,215,14,no,yes,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,9,0,5,C-,C,F,C
 MA,Massachusetts,9.4,145,27,6983277,3578678,1411194,69098,2.10,345,0.42,200,15.5,no,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,yes,no,yes,yes,5,3.5,7,C,D,D,B
 MI,Michigan,20.4,102,5,10045829,5079187,1893803,104886,0.97,524,0.19,422,8.5,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,yes,no,yes,no,4,0.5,4,D,D,F,C
 MN,Minnesota,8.5,137,18,5692686,2831337,1094819,64110,2.14,321,0.43,184,11.0,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,yes,no,yes,yes,5,1.0,5,D+,D,F,C
