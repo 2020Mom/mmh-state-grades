@@ -21,21 +21,12 @@ The county-level data from [mmh-risk-factors](https://github.com/2020Mom/mmh-ris
     "STABRV"        State Abreviation
     "STATE"         Name of state
     "WPRFS"         Risk Factor Score for the State (average weighted by # of births)
-    "PROVIDERS"     (#) Certified PMH Providers
-    "PRESCRIBERS"   (#) Licensed Prescribers
-    "TOTPOP"        Population, total
-    "FEMPOP"        Female Population, total
-    "RPRAFEM"       (#) Female aged 15-44 years
-    "BIRTHS_EST"    Estimate of Annual Births
-    "RATIO"         (#) Certified PMH Providers per 1k Annual Births
-    "REQPROV"       (#) Required Certified PMH Providers
-    "COVERAGE"      (%) Need Coverage Ratio,i.e. "PROVIDERS" / "REQPROV"
     "TOTAL"         Total Point Allocation for State Grades
     "P1"            Pillar 1 Point Allocation
     "P2"            Pillar 2 Point Allocation
     "P3"            Pillar 3 Point Allocation
+    "GRADE"         Overall State Grade
     "P1g"           Pillar 1 Grade
     "P2g"           Pillar 2 Grade
     "P3g"           Pillar 3 Grade
-    "GAP"           (#) Provider Shortage Gap,i.e. "REQPROV" - "PROVIDERS"
 </pre>
