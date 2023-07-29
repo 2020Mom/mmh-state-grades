@@ -29,8 +29,7 @@ The county-level data from [mmh-risk-factors](https://github.com/2020Mom/mmh-ris
     "BIRTHS_EST"    Estimate of Annual Births
     "RATIO"         (#) Certified PMH Providers per 1k Annual Births
     "REQPROV"       (#) Required Certified PMH Providers
-    "COVERAGE"      (%) "PROVIDERS" / "REQPROV"
-    "GAP"           (#) "REQPROV" - "PROVIDERS"
+    "COVERAGE"      (%) Need Coverage Ratio,i.e. "PROVIDERS" / "REQPROV"
     "TOTAL"         Total Point Allocation for State Grades
     "P1"            Pillar 1 Point Allocation
     "P2"            Pillar 2 Point Allocation
@@ -38,4 +37,5 @@ The county-level data from [mmh-risk-factors](https://github.com/2020Mom/mmh-ris
     "P1g"           Pillar 1 Grade
     "P2g"           Pillar 2 Grade
     "P3g"           Pillar 3 Grade
+    "GAP"           (#) Provider Shortage Gap,i.e. "REQPROV" - "PROVIDERS"
 </pre>
