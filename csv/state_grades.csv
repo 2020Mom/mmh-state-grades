@@ -1,52 +1,52 @@
-STABRV,STATE,WPRFS,TOTAL,S_1,S_2,S_3,S_4,S_5,S_6,S_7,S_8,S_9,S_10,S_11,S_12,S_13,S_14,S_15,S_16,S_17,P1,P2,P3,GRADE,P1g,P2g,P3g
-AL,Alabama,23,2,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,0,0,2,F,F,F,D
-AK,Alaska,21,6,no,yes,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,3,0,3,D-,D,F,D
-AZ,Arizona,21,15,no,yes,no,no,yes,yes,no,yes,no,no,no,no,yes,yes,no,no,no,9,3,3,C,C,D,D
-AR,Arkansas,26,2.5,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,0,0.5,2,F,F,F,D
-CA,California,13,27.5,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,10,10.5,7,B-,C,C,B
-CO,Colorado,12,16.5,no,yes,no,no,no,yes,no,yes,yes,no,no,yes,yes,yes,no,yes,yes,5,6.5,5,C,D,D,C
-CT,Connecticut,10,3.5,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,no,no,0,0.5,3,F,F,F,D
-DE,Delaware,14,5,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,0,0,5,D-,F,F,C
-DC,District of Columbia,17,12,no,yes,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,7,0,5,D+,D,F,C
-FL,Florida,19,9,no,no,no,yes,yes,no,no,yes,no,no,no,no,no,yes,no,no,no,4,3,2,D,D,D,D
-GA,Georgia,15,2,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,no,0,0,2,F,F,F,D
-HI,Hawaii,12,7,no,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,2,0,5,D,F,F,C
-ID,Idaho,15,2.5,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,yes,no,0,0.5,2,F,F,F,D
-IL,Illinois,13,15.5,no,no,no,yes,no,yes,yes,yes,no,no,no,yes,yes,yes,no,yes,yes,4,6.5,5,C,D,D,C
-IN,Indiana,22,8.5,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,yes,no,yes,no,0,4.5,4,D,F,D,C
-IA,Iowa,13,3,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,0,0,3,F,F,F,D
-KS,Kansas,15,6.5,no,yes,no,no,no,no,no,no,no,no,no,yes,no,yes,no,yes,no,3,0.5,3,D-,D,F,D
-KY,Kentucky,23,5,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,0,0,5,D-,F,F,C
-LA,Louisiana,26,12,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,yes,no,no,3,3,6,D+,D,D,C
-ME,Maine,13,5,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,0,0,5,D-,F,F,C
-MD,Maryland,12,14,no,yes,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,9,0,5,C-,C,F,C
-MA,Massachusetts,9,15.5,no,yes,no,no,no,yes,no,yes,no,no,no,yes,yes,yes,no,yes,yes,5,3.5,7,C,D,D,B
-MI,Michigan,20,8.5,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,yes,no,yes,no,4,0.5,4,D,D,F,C
-MN,Minnesota,8,11.0,no,no,no,yes,no,yes,no,no,no,no,yes,yes,yes,yes,no,yes,yes,5,1.0,5,D+,D,F,C
-MS,Mississippi,25,4,no,no,no,no,no,yes,no,no,no,no,no,no,no,yes,no,no,no,2,0,2,F,F,F,D
-MO,Missouri,17,6,no,no,no,yes,no,no,no,no,no,yes,no,no,yes,no,no,yes,yes,1,2,3,D-,F,F,D
-MT,Montana,18,10.5,yes,yes,no,no,no,yes,no,no,no,no,no,yes,yes,no,no,yes,yes,7,0.5,3,D+,D,F,D
-NE,Nebraska,9,3,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,yes,0,0,3,F,F,F,D
-NV,Nevada,18,2,no,no,no,yes,no,no,no,no,no,no,no,no,yes,no,no,no,no,1,0,1,F,F,F,F
-NH,New Hampshire,7,4,no,no,no,no,no,yes,no,no,no,no,no,no,yes,no,no,yes,yes,1,0,3,F,F,F,D
-NJ,New Jersey,9,14,no,yes,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,no,yes,no,7,3,4,C-,D,D,C
-NM,New Mexico,27,3,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,no,no,0,0,3,F,F,F,D
-NY,New York,10,9,no,no,yes,yes,no,yes,no,no,no,no,no,no,yes,yes,no,no,no,6,0,3,D,D,F,D
-NC,North Carolina,13,8.5,no,no,yes,yes,no,no,no,no,yes,no,no,yes,no,yes,no,yes,yes,2,2.5,4,D,F,F,C
-ND,North Dakota,13,5,no,no,no,no,no,no,no,no,no,no,no,no,yes,yes,no,yes,yes,0,0,5,D-,F,F,C
-OH,Ohio,13,11,no,no,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,6,0,5,D+,D,F,C
-OK,Oklahoma,28,10,no,no,no,no,yes,no,yes,no,no,no,no,no,yes,yes,no,yes,no,3,3,4,D+,D,D,C
-OR,Oregon,14,12,no,yes,no,no,yes,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,7,0,5,D+,D,F,C
-PA,Pennsylvania,11,15,no,no,no,yes,no,yes,no,no,yes,yes,no,no,yes,yes,no,yes,yes,6,4,5,C,D,D,C
-RI,Rhode Island,9,13.5,no,yes,no,yes,no,no,no,no,no,no,yes,no,yes,yes,no,yes,yes,4,0.5,9,C-,D,F,B
-SC,South Carolina,19,3,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,yes,no,0,0,3,F,F,F,D
-SD,South Dakota,18,1,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,0,0,1,F,F,F,F
-TN,Tennessee,25,7,no,no,no,no,yes,yes,no,no,no,no,no,no,no,yes,no,no,no,5,0,2,D,D,F,D
-TX,Texas,23,3,no,no,no,no,yes,no,no,no,no,no,no,no,no,no,no,no,no,3,0,0,F,D,F,F
-UT,Utah,15,7,no,no,no,yes,no,yes,no,no,no,no,no,no,yes,no,no,no,yes,5,0,2,D,D,F,D
-VT,Vermont,14,11,yes,no,no,no,no,yes,no,no,no,no,no,no,yes,yes,no,yes,yes,4,0,7,D+,D,F,B
-VA,Virginia,11,6,no,no,no,no,no,no,no,yes,no,no,no,no,yes,yes,no,no,no,0,3,3,D-,F,D,D
-WA,Washington,16,14.0,no,no,no,yes,no,yes,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,4,5.0,5,C-,D,D,C
-WV,West Virginia,23,5.5,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,no,yes,yes,0,0.5,5,D-,F,F,C
-WI,Wisconsin,13,8,no,no,no,no,no,yes,no,no,yes,yes,no,no,no,no,no,yes,yes,2,4,2,D,F,D,D
-WY,Wyoming,20,3,no,no,no,no,no,no,no,no,no,no,no,no,no,yes,no,no,yes,0,0,3,F,F,F,D
+FIPS,STABRV,STATE,WPRFS,TOTAL,S_1,S_2,S_3,S_4,S_5,S_6,S_7,S_8,S_9,S_10,S_11,S_12,S_13,S_14,S_15,S_16,S_17,P1,P2,P3,GRADE,P1g,P2g,P3g
+1,AL,Alabama,22.6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,F,F,F,D
+2,AK,Alaska,20.4,6,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,3,0,3,D-,D,F,D
+4,AZ,Arizona,20.6,15,0,3,0,0,3,3,0,3,0,0,0,0,1,2,0,0,0,9,3,3,C,C,D,D
+5,AR,Arkansas,26,2.5,0,0,0,0,0,0,0,0,0,0,0,0.5,1,0,0,0,1,0,0.5,2,F,F,F,D
+6,CA,California,12.7,27.5,0,0,1,3,3,3,3,3,2,2,0,0.5,1,2,3,0,1,10,10.5,7,B-,C,C,B
+8,CO,Colorado,11.9,16.5,0,3,0,0,0,2,0,3,2,0,0,1.5,1,2,0,1,1,5,6.5,5,C,D,D,C
+9,CT,Connecticut,10,3.5,0,0,0,0,0,0,0,0,0,0,0,0.5,1,2,0,0,0,0,0.5,3,F,F,F,D
+10,DE,Delaware,13.7,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,5,D-,F,F,C
+11,DC,District of Columbia,17,12,0,3,0,0,3,1,0,0,0,0,0,0,1,2,0,1,1,7,0,5,D+,D,F,C
+12,FL,Florida,18.8,9,0,0,0,1,3,0,0,3,0,0,0,0,0,2,0,0,0,4,3,2,D,D,D,D
+13,GA,Georgia,15.3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,F,F,F,D
+15,HI,Hawaii,13.3,7,0,0,0,0,0,2,0,0,0,0,0,0,1,2,0,1,1,2,0,5,D,F,F,C
+16,ID,Idaho,14.1,2.5,0,0,0,0,0,0,0,0,0,0,0,0.5,1,0,0,1,0,0,0.5,2,F,F,F,D
+17,IL,Illinois,13.1,15.5,0,0,0,1,0,3,3,3,0,0,0,0.5,1,2,0,1,1,4,6.5,5,C,D,D,C
+18,IN,Indiana,22.2,8.5,0,0,0,0,0,0,0,0,3,0,0,1.5,1,2,0,1,0,0,4.5,4,D,F,D,C
+19,IA,Iowa,12.4,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,3,F,F,F,D
+20,KS,Kansas,14.8,6.5,0,3,0,0,0,0,0,0,0,0,0,0.5,0,2,0,1,0,3,0.5,3,D-,D,F,D
+21,KY,Kentucky,23.1,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,5,D-,F,F,C
+22,LA,Louisiana,25.4,12,0,0,0,0,3,0,3,0,0,0,0,0,1,2,3,0,0,3,3,6,D+,D,D,C
+23,ME,Maine,12.5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,5,D-,F,F,C
+24,MD,Maryland,12.9,14,0,3,0,0,3,3,0,0,0,0,0,0,1,2,0,1,1,9,0,5,C-,C,F,C
+25,MA,Massachusetts,9.4,18.5,0,3,0,0,3,2,0,3,0,0,0,0.5,1,2,0,3,1,8,3.5,7,C,C,D,B
+26,MI,Michigan,20.4,8.5,0,0,0,1,0,3,0,0,0,0,0,0.5,1,2,0,1,0,4,0.5,4,D,D,F,C
+27,MN,Minnesota,8.5,11,0,0,0,3,0,2,0,0,0,0,0.5,0.5,1,2,0,1,1,5,1,5,D+,D,F,C
+28,MS,Mississippi,24.3,4,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,2,0,2,F,F,F,D
+29,MO,Missouri,17.3,6,0,0,0,1,0,0,0,0,0,2,0,0,1,0,0,1,1,1,2,3,D-,F,F,D
+30,MT,Montana,18,10.5,3,3,0,0,0,1,0,0,0,0,0,0.5,1,0,0,1,1,7,0.5,3,D+,D,F,D
+31,NE,Nebraska,8.6,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,3,F,F,F,D
+32,NV,Nevada,18.3,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,F,F,F,F
+33,NH,New Hampshire,7.1,4,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,3,F,F,F,D
+34,NJ,New Jersey,8.8,14,0,3,0,1,0,3,3,0,0,0,0,0,1,2,0,1,0,7,3,4,C-,D,D,C
+35,NM,New Mexico,26.8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,3,F,F,F,D
+36,NY,New York,10.7,9,0,0,1,2,0,3,0,0,0,0,0,0,1,2,0,0,0,6,0,3,D,D,F,D
+37,NC,North Carolina,13.3,8.5,0,0,1,1,0,0,0,0,2,0,0,0.5,0,2,0,1,1,2,2.5,4,D,F,F,C
+38,ND,North Dakota,11.5,5,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,0,0,5,D-,F,F,C
+39,OH,Ohio,12.9,11,0,0,0,0,3,3,0,0,0,0,0,0,1,2,0,1,1,6,0,5,D+,D,F,C
+40,OK,Oklahoma,27.3,10,0,0,0,0,3,0,3,0,0,0,0,0,1,2,0,1,0,3,3,4,D+,D,D,C
+41,OR,Oregon,14.4,12,0,3,0,0,3,1,0,0,0,0,0,0,1,2,0,1,1,7,0,5,D+,D,F,C
+42,PA,Pennsylvania,11.1,15,0,0,0,3,0,3,0,0,2,2,0,0,1,2,0,1,1,6,4,5,C,D,D,C
+44,RI,Rhode Island,8.8,13.5,0,3,0,1,0,0,0,0,0,0,0.5,0,1,2,0,3,3,4,0.5,9,C-,D,F,B
+45,SC,South Carolina,19.2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,3,F,F,F,D
+46,SD,South Dakota,16.4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,F,F,F,F
+47,TN,Tennessee,25.4,7,0,0,0,0,3,2,0,0,0,0,0,0,0,2,0,0,0,5,0,2,D,D,F,D
+48,TX,Texas,23.2,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,F,D,F,F
+49,UT,Utah,15,7,0,0,0,3,0,2,0,0,0,0,0,0,1,0,0,0,1,5,0,2,D,D,F,D
+50,VT,Vermont,14.3,11,3,0,0,0,0,1,0,0,0,0,0,0,1,2,0,3,1,4,0,7,D+,D,F,B
+51,VA,Virginia,11,6,0,0,0,0,0,0,0,3,0,0,0,0,1,2,0,0,0,0,3,3,D-,F,D,D
+53,WA,Washington,16,14,0,0,0,1,0,3,0,0,2,2,0.5,0.5,1,2,0,1,1,4,5,5,C-,D,D,C
+54,WV,West Virginia,23.5,5.5,0,0,0,0,0,0,0,0,0,0,0,0.5,1,2,0,1,1,0,0.5,5,D-,F,F,C
+55,WI,Wisconsin,13.5,8,0,0,0,0,0,2,0,0,2,2,0,0,0,0,0,1,1,2,4,2,D,F,D,D
+56,WY,Wyoming,19.6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,3,F,F,F,D
